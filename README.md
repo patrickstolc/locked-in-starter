@@ -1,4 +1,4 @@
-# Locked In: Student starter
+# Locked In
 
 The room and command-line game are provided. You will write the LLM integration in `interpreter.py`.
 
