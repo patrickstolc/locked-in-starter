@@ -1,0 +1,18 @@
+# Local credentials and environment settings
+.env
+.env.*
+
+# Virtual environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated playthrough and evaluation logs
+*.jsonl
+
+# Operating-system metadata
+.DS_Store
+
+# Assignment handout is distributed separately through Moodle
+01_assignment_locked_in*
