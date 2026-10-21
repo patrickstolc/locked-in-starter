@@ -6,7 +6,7 @@ Follow the assignment on Moodle for the eight steps and submission requirements.
 
 ## Setup
 
-Use Python 3.10 or newer. The supplied starter uses only the Python standard library; no packages need to be installed.
+Use Python 3.10 or newer. The supplied starter uses only the Python standard library and no packages need to be installed.
 
 From this repository's root, create and activate a virtual environment:
 
